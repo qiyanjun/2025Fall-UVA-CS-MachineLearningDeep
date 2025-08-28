@@ -9,10 +9,10 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 ### Six assignments (60%)
 + Post in Canvas 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
-[instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu).
+[instructors25fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu).
 
 + Please submit all extension requests, questions, and late assignments  to <br>
-[instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu).
+[instructors25fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu).
  
 
 <table id="datatab3" summary="Five Assignments" border="1">
@@ -29,43 +29,43 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 <tr>
   <td>HW1</td>
   <td>Out in Canvas </td>
-  <td>W2</td>
-  <td>W4</td>
+  <td>W1</td>
+  <td>W3</td>
   <td>Linear Regression and  Optimization to Code</td>
 </tr>
 <tr>
   <td>HW2</td>
   <td>TBD</td>
-  <td>W4</td>
-  <td>W6</td>
+  <td>W2</td>
+  <td>W5</td>
   <td>Polynomial, Ridge, Model Selection to implement</td>
 </tr>
 <tr>
   <td>HW3</td>
   <td>TBD</td>
-  <td>W6</td>
-  <td>W9</td>
+  <td>W3</td>
+  <td>W8</td>
   <td>Deep NN on imaging to implement and to compete  </td>
 </tr>
 <tr>
   <td>HW4</td>
   <td>TBD</td>
-  <td>W9</td>
+  <td>W4</td>
   <td>W11</td>
   <td>NBC and Deep on Text to implement and compete</td>
 </tr>
 <tr>
   <td>HW5</td>
   <td>TBD</td>
-  <td>W11</td>
+  <td>W5</td>
   <td>W13</td>
   <td> kNN to implement, SVM, and BoostingTrees to compare</td>
 </tr>
 <tr>
   <td>HW6</td>
   <td>TBD</td>
-  <td>W11</td>
-  <td>W13</td>
+  <td>W6</td>
+  <td>W16</td>
   <td> Hierarchical Clustering to Implement</td>
 </tr>
 </table>
