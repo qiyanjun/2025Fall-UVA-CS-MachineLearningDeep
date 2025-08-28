@@ -7,7 +7,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 <hr>
 
 ### Six assignments (60%)
-+ Post in collab 
++ Post in Canvas 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
 [instructors22spring-machinelearningdeep@collab.its.virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu).
 
@@ -28,7 +28,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 </tr>
 <tr>
   <td>HW1</td>
-  <td>Out in Collab </td>
+  <td>Out in Canvas </td>
   <td>W2</td>
   <td>W4</td>
   <td>Linear Regression and  Optimization to Code</td>

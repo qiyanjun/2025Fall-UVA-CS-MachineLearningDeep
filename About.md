@@ -78,16 +78,14 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
    + 
 
 + #### TA office hours and recitals
-  - Via Course Slack Space / Link Shared via Collab maillist
-  - Mon: 5pm-6pm by Aman
-  - Wed: 5pm-6pm By Zhe Wang
-  - Fri: 1pm-2:30pm By William Christopher Peterson
+  - Via Course Slack Space / Link Shared via Course maillist
+  - TBD
   
 
 
 + #### Recital lectures about ML platforms
   - We will have recital sessions from instructor, or TA or  invited 
-  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Collab maillist.  So far we plan to have recital topics like: 
+  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Canvas maillist.  So far we plan to have recital topics like: 
     - Machine Learning in the cloud: AWS invited speaker
     - RL Gym – invited speaker
     - Adversarial ML – invited speaker
@@ -117,10 +115,10 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 ### Assignment due dates, Lateness and Extensions
 
-+ Unless otherwise specified, assignments should be submitted through collab and are due  <b>
++ Unless otherwise specified, assignments should be submitted through Canvas and are due  <b>
 at 11:59pm on the due date </b>.
 + Programming solutions should be placed in each student's appropriate
- Collab  directory.
+ Canvas  directory.
 
 + #### All communications regarding late assignment submissions should go directly to [ToCome], not with the instructor.
 
