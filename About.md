@@ -84,8 +84,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 
 + #### Recital lectures about ML platforms
-  - We will have recital sessions from instructor, or TA or  invited 
-  speakers to teach students about deep learning platforms or libraries. Specific dates will be communicated via our Canvas maillist.  So far we plan to have recital topics like: 
+  - We plan to offer extra sessions on deep learning platforms or libraries. Specific dates will be communicated via our Canvas maillist.  So far we plan to have extra topics like: 
     - Machine Learning in the cloud: AWS invited speaker
     - RL Gym – invited speaker
     - Adversarial ML – invited speaker
