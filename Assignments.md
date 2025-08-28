@@ -6,7 +6,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 
 <hr>
 
-### Six assignments (60%)
+### Six assignments (65%)
 + Post in Canvas 
 + You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
 [instructors25fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu).
@@ -66,13 +66,13 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>TBD</td>
   <td>W6</td>
   <td>W16</td>
-  <td> Hierarchical Clustering to Implement</td>
+  <td> Hierarchical Clustering to Implement OR a project topic that you like to persue! </td>
 </tr>
 </table>
 
 <hr>
 
-### About in-class Quizzess (25%)
+### About in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Thursdays
 + Each quizz includes contents we cover in the previous week
@@ -96,4 +96,6 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q-makeup   | [URL]() |
 
 
-
+### About Final Exam (15%)
++ Details to come
++ Closed book 
