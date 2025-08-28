@@ -70,7 +70,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
-  - [yanjun@virginia.edu](mailto:instructors22spring-machinelearningdeep@collab.its.virginia.edu);  
+  - [yanjun@virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu);  
 
 
 + ##### TAs: 
