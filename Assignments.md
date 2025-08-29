@@ -66,7 +66,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>TBD</td>
   <td>W6</td>
   <td>W16</td>
-  <td> Hierarchical Clustering to Implement OR a project topic that you like to persue! </td>
+  <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
 </tr>
 </table>
 
