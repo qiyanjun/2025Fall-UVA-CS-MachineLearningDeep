@@ -107,9 +107,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ Assignments (75%, with five assignments)
-+ Class quizzes (25%): each takes 10 mins via google form;  
-
++ [Link to grading page]({{ site.baseurl }}{% Assignments.md %})
 
 
 ### Assignment due dates, Lateness and Extensions
