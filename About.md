@@ -107,7 +107,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ [Link to grading page]({{ site.baseurl }}{% Assignments.md %})
++ [Link to grading policy page](Assignments.md)
 
 
 ### Assignment due dates, Lateness and Extensions
