@@ -62,8 +62,8 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td> kNN to implement, SVM, and BoostingTrees to compare</td>
 </tr>
 <tr>
-  <td>HW6</td>
-  <td>TBD</td>
+  <td>Final Project </td>
+  <td>[Project Requirements](25fProjects.md)</td>
   <td>W6</td>
   <td>W16</td>
   <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
@@ -86,7 +86,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 + Each quizz includes contents we cover in the previous two reading sessions 
 
 
-|INDEX     | Quiz |
+|INDEX | Quiz |
 |------|----------------------------|
 | Q1   | [URL]() |
 | Q2   | [URL]() |
