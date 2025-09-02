@@ -2,7 +2,7 @@
 layout: post
 title: deep RL Gym
 lecture: S5-RL-Gym-to-come
-lectureVersion: current
+lectureVersion: next
 notes: Invited Speaker
 video:    
 categories: library

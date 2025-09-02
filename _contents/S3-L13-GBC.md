@@ -2,7 +2,7 @@
 layout: post
 title: Gaussian GBC 
 lecture: S3-GaussianGBC
-lectureVersion: current
+lectureVersion: next
 extraContent:  
 video: <a href="https://youtu.be/uD2_ZOhyiw8">Extra M4</a> 
 notes:  <a href="https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf">Paper Discr vs. Genera</a>

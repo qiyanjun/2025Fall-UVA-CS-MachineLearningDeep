@@ -2,7 +2,7 @@
 layout: post
 title: ProbReview + MLE  
 lecture:  S2-MLE
-lectureVersion: current
+lectureVersion: next
 extraContent: S2-MLE 
 video: <a href="https://youtu.be/RIvdfYIHT1I"> M1</a> 
 notes: <a href="https://www.youtube.com/watch?v=aDW44NPhNw0&list=PLs8w1Cdi-zvY9ICoYqu1XV0YoTQgShXw2">Error Metrics</a>

@@ -2,7 +2,7 @@
 layout: post
 title: More on Boosting
 lecture: S4-DT-moreBoosting
-lectureVersion: current
+lectureVersion: next
 notes: 
 video:  
 categories: optimize
