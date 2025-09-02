@@ -5,9 +5,29 @@ desc: "Course Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 
 
+### Looking forward to your demos and artifacts! 
+
+### Potential projects ideas or project domain: for example, 
+- Week2 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)
+- Week3 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)
+- Week4 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week5 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week6 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week7 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week8 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week9 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week10 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week11 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week12 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week13 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+- Week14 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+
+- Many many more! 
 
 
-### Details on Final Project and required artifacts: 
+
+
+### Detail requirements on Final Project and required artifacts: 
 
 + On the project final presentation (50%): 
   - A formal presentation slide deck to the instructors (in the last week of semester), presenting your slide deck and your iPython notebook. 
@@ -30,12 +50,5 @@ desc: "Course Project Information for 2025 Fall UVa CS -ML-Undergraduate"
   - Clear explanation of approach and code runs (25%)
   - clear summary of results (and/or difficulties) (25%)
   - Well-organized, polished as a whole (25%) 
-
-
-### Looking forward to your demos and artifacts! 
-
-### Potential projects or project types: for example, 
-- Week2 example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)
-- Many many more! 
 
 
