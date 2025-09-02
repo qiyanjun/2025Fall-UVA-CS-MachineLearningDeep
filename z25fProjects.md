@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ProjectGuide
-desc: "Course Project Information for 2025 Fall UVa CS -ML-Undergraduate"
+desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 
 
