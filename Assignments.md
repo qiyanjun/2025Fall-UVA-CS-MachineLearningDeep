@@ -63,7 +63,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 </tr>
 <tr>
   <td>Final Project </td>
-  <td><a href="{{ site.baseurl }}/25fProjects.html">Project Requirements</a></td>
+  <td><a href="{{ site.baseurl }}/25fProjects/">Project Requirements</a></td>
   <td>W6</td>
   <td>W16</td>
   <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
