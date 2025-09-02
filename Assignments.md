@@ -29,7 +29,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 <tr>
   <td>HW1</td>
   <td>Out in Canvas </td>
-  <td>W1</td>
+  <td>W2</td>
   <td>W3</td>
   <td>Linear Regression and  Optimization to Code</td>
 </tr>
@@ -68,19 +68,26 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W16</td>
   <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
 </tr>
+<tr>
+  <td>Weekly Reading Questions</td>
+  <td>Weekly Reading Questions to submit</td>
+  <td>Every Week</td>
+  <td>Every Thursday morning</td>
+  <td> Submit weekly reading questions to Canvas. Please submit one question per video reading </td>
+</tr>
 </table>
+
 
 <hr>
 
 ### About in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Thursdays
-+ Each quizz includes contents we cover in the previous week
++ Each quizz includes contents we cover in the previous two reading sessions 
 
 
 |INDEX     | Quiz |
 |------|----------------------------|
-| Q0-fake   | [URL]() |
 | Q1   | [URL]() |
 | Q2   | [URL]() |
 | Q3   | [URL]() |
