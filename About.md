@@ -70,22 +70,22 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 
 + ##### Prof. Yanjun Qi: 
   - [Homepage](http://www.cs.virginia.edu/yanjun/){:target="_blank"}
-  - [yanjun@virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu);  
+  - [yanjun@virginia.edu](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu);  
+  - Please DM me on slack (much faster than emails!)
 
 
-+ ##### TAs: 
-   + 
-   + 
++ #### TA office hours and communication with TAs 
+  - communication with TA via Course Slack Space / Slack Link Shared via Course maillist
+  - instructor email [here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
+  - Guangzhi Xiong (hhu4zu@virginia.edu): Tue 3:30pm - 5:30pm (in Thornton Hall E303) 
+  - Kefan Song (ks8vf@virginia.edu): Tue 3:30pm - 5:30pm (in Thornton Hall E303) 
+  - Haochen Liu (sat2pv@virginia.edu): Thursday 12pm noon-2pm (TBD)
 
-+ #### TA office hours and recitals
-  - Via Course Slack Space / Link Shared via Course maillist
-  - TBD
-  
 
 
 + #### Recital lectures about ML platforms
   - We plan to offer extra sessions on deep learning platforms or libraries. Specific dates will be communicated via our Canvas maillist.  So far we plan to have extra topics like: 
-    - Machine Learning in the cloud: AWS invited speaker
+    - Machine Learning in the cloud: invited speaker
     - RL Gym – invited speaker
     - Adversarial ML – invited speaker
 
