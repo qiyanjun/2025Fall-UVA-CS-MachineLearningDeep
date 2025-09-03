@@ -11,6 +11,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 ### Course Basics:
 
 + TuTh 3:30pm - 4:45PM  
++ Please check course updates at the Canvas or read a short version [here](z25fBlog.md)
 
 ### General Description:
 
