@@ -80,7 +80,7 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
   - instructor email [here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
   - Guangzhi Xiong (hhu4zu@virginia.edu): Tue 3:30pm - 5:30pm (in Thornton Hall E303) 
   - Kefan Song (ks8vf@virginia.edu): Tue 3:30pm - 5:30pm (in Thornton Hall E303) 
-  - Haochen Liu (sat2pv@virginia.edu): Thursday 12pm noon-2pm (TBD)
+  - Haochen Liu (sat2pv@virginia.edu): Thursday 12pm noon-2pm (Rice 109)
 
 
 
