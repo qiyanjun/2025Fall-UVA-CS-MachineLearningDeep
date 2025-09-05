@@ -83,7 +83,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 ### About in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Thursdays
-+ Each quizz includes contents we cover in the previous two reading sessions 
++ Each quizz includes contents we cover in the previous two reading sessions. 
 
 
 |INDEX | Quiz |
