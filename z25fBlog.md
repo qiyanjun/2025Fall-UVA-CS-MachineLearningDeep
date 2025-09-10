@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Annoucements
-desc: "Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
+desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 <hr>
 
