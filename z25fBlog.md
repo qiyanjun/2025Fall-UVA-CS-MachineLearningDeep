@@ -8,8 +8,8 @@ desc: "Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 ## Tips  
 
 Here are two easy pages to go through the course materials: 
-- https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/ 
-- https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/ 
+- [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
+- [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
 - This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
 
 <hr>
