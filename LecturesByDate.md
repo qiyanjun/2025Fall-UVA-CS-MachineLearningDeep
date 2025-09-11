@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slides
+title: All-In-OnePage
 desc: "2025 Fall  UVa CS Machine Learning Lectures Organized by Given Order"
 ---
 

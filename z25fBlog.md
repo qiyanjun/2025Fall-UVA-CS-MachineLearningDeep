@@ -11,9 +11,17 @@ Here are two easy pages to go through the course materials:
 - [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
 - [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
 - This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
-- code examples see [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
+- We share a few code examples on course lectures, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
+- Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
 
 <hr>
+
+## Sep 11 on Quiz-3
+
+Next Quiz Q3: will be on the coming Tuesday covering this week's two readings: 
+- [LR](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L02-LR/)
+- [LR optimization](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L04-LRO/)
+
 
 ## Sep 10 on Quiz-2
 

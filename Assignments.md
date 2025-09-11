@@ -88,18 +88,20 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 
 |INDEX | Quiz |
 |------|----------------------------|
-| Q1   | [URL]() |
-| Q2   | [URL]() |
-| Q3   | [URL]() |
-| Q4   | [URL]() |
-| Q5   | [URL]() |
-| Q6   | [URL]() |
-| Q7   | [URL]() |
-| Q8   | [URL]() |
-| Q9   | [URL]() |
-| Q10   | [URL]() |
-| Q11   | [URL]() |
-| Q12   | [URL]() |
+| Q1   | [URL](https://forms.gle/2oqV25qimz8AG1J58) |
+| Q2   | [URL](https://forms.gle/TtPu4ZwHvNoNiw5bA) |
+| Q3   | [ToCome]() |
+| Q4   | [ToCome]() |
+| Q5   | [ToCome]() |
+| Q6   | [ToCome]() |
+| Q7   | [ToCome]() |
+| Q8   | [ToCome]() |
+| Q9   | [ToCome]() |
+| Q10   | [ToCome]() |
+| Q11   | [ToCome]() |
+| Q12   | [ToCome]() |
+| Q13   | [ToCome]() |
+| Q14   | [ToCome]() |
 | Q-makeup   | [URL]() |
 
 

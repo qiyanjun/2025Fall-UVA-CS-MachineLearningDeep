@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics
+title: Topics-as-Tables
 desc: "2025 Fall  UVa CS Machine Learning Lectures Organized by Tags"
 ---
 <p><a name="topPage"></a></p>
