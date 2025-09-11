@@ -94,15 +94,14 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q4   | [ToCome]() |
 | Q5   | [ToCome]() |
 | Q6   | [ToCome]() |
-| Q7   | [ToCome]() |
+| Q7-makeup   | [ToCome]() |
 | Q8   | [ToCome]() |
 | Q9   | [ToCome]() |
 | Q10   | [ToCome]() |
 | Q11   | [ToCome]() |
 | Q12   | [ToCome]() |
 | Q13   | [ToCome]() |
-| Q14   | [ToCome]() |
-| Q-makeup   | [URL]() |
+| Q14-makeup   | [ToCome]() |
 
 
 ### About Final Exam (15%)
