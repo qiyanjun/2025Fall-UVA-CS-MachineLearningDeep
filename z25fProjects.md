@@ -40,10 +40,10 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 
 + On what to create / submit for your final project: 
   - A mini demo presentation to the instructors on your project idea is expected. The mini presentation is expected to explain  (WHY/ WHAT/ HOW on your project!)
-  - A slide deck (Due in Canvas on xx ) summarizing your project  and describing the results you reproduce; Two slide pages are enough (more is better!).
-  - Please formulate your project presentation using [a given template]({{ site.baseurl }}/Lectures/Project-PresentationTemplate.pptx)
+  - A slide deck (Due in Canvas on xx ) summarizing your project  and describing the results you reproduce; Filling in the template slide pages will be enough enough (more is better!).
+  - Please formulate your project presentation using [a given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx)
   - A python Jupyter notebook (Due in Canvas on Xxx, together with the slide deck) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
-  - You will go through and show the notebook file in your final project presentation  to the instructors. 
+  - You are expected to go through and show the notebook file and your final project presentation  to the instructors. 
   
 + On the final presentation of your project: 
   - To minimize the overhead time cost (switching, wrong setup, ….), we will expect you to record a demo video to present your project, presentation contents including
