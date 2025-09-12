@@ -7,13 +7,16 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 ## Tips  
 
-Here are two easy pages to go through the course materials: 
-- [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
-- [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
+- Two easy pages to go through the course materials: 
+  1. [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
+  2. [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
 - This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
-- We share a few code examples on course lectures, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
+- We will have future quiz mostly on Tuesdays. 
+- We share a few code examples showcasing course lecture contents in code, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
 - Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
-- For sick day doctor note, SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
+- For sick day reschedule (with doctor note) and SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
+- Please remember to submit your reading question assignments on Tuesdays by noon (In Canvas!) 
+
 
 <hr>
 
