@@ -2,7 +2,7 @@
 layout: post
 title: LR with basis
 lecture: S1-LRSelectExtend
-lectureVersion: next
+lectureVersion: current 
 extraContent: S1-nonparametric
 notes:  <a href="https://colab.research.google.com/drive/1BVcHUBYDO4AlwldcKmpmj5blAbf7lSJb?usp=sharing">RBF regression notebook </a>
 morenotes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> NonLinearR </a> + <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>
