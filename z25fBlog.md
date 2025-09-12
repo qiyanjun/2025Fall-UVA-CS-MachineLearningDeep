@@ -13,6 +13,7 @@ Here are two easy pages to go through the course materials:
 - This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
 - We share a few code examples on course lectures, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
 - Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
+- For sick day doctor note, SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
 
 <hr>
 
