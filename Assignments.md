@@ -73,7 +73,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>Weekly Reading Questions to submit</td>
   <td>Every Week</td>
   <td>Every Thursday morning</td>
-  <td> Submit weekly reading questions to Canvas. Please submit one question per video reading. For each week, Tuesdays are for video reading; I will email you what to read on Thursday evenings!  Please remember to submit questions from your reading as submissions to  weekly question assignments!!!! ~ )  </td>
+  <td> Submit weekly reading questions to Canvas. Please submit one question per lecture reading. For each week, Thursday are for flip reading; I will email you what to read on Tuesday evenings!  Please remember to submit questions from your reading as submissions to  weekly question assignments (due on Tuesday noon weekly)!!!! ~ )  </td>
 </tr>
 </table>
 
