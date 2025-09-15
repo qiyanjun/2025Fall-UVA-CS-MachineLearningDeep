@@ -42,6 +42,7 @@ desc: 'Website for 2025 Fall -UVA-CS Machine Learning: Machine learning Foundati
   <th>Date</th>
   <th>Week</th>
   <th>Qz</th>
+  <th>HW due</th>
   <th>Title / Post</th>
   <th>Lecture PDF</th>
   <th>Focus</th>
@@ -52,7 +53,6 @@ desc: 'Website for 2025 Fall -UVA-CS Machine Learning: Machine learning Foundati
 </tr>
 
 {% assign counter = 0 %}
-{% assign Qcounter = 0 %}
 
 {% assign currentTag = 0 %}
 {% assign sorted = site.contents %}
@@ -64,6 +64,9 @@ desc: 'Website for 2025 Fall -UVA-CS Machine Learning: Machine learning Foundati
 
 
 {% assign Qdates = "|||Q1||Q2|Q3||Q4||Q5||Q6|| Q-7 makeup online | Q8||Q9| | Q10-makeup online|Q11| |Q12||Q13| Q14 | | Q15-makeup| " | split: "|" %}
+
+{% assign HWdates = "||||||||HW1||||HW2||||HW3||||HW4|||||HW5||| Project " | split: "|" %}
+
 
 {% for post in sorted %}
 
@@ -102,10 +105,18 @@ desc: 'Website for 2025 Fall -UVA-CS Machine Learning: Machine learning Foundati
 
   {% if  Qdates[counter]  contains 'Q'  %}
     <td>{{ Qdates[counter] }}</td>
-    {% assign Qcounter=Qcounter | plus:1 %}
   {% else %}
     <td></td>
   {% endif %}
+
+  {% if  HWdates[counter]  contains 'H'  %}
+    <td>{{ HWdates[counter] }}</td>
+  {% else %}
+    <td></td>
+  {% endif %}
+
+  {% endif %}
+
 {% endif %}
 
 <td><a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a></td>
@@ -123,6 +134,7 @@ desc: 'Website for 2025 Fall -UVA-CS Machine Learning: Machine learning Foundati
 <td>{{ post.video }} </td>
 
 <td>{{ post.notes }} </td>
+
 
 </tr>
 
