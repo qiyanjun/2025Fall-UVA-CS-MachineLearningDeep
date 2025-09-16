@@ -13,6 +13,8 @@ tags:
 - 1Basic
 ---
 
+- Notebook Resources: [notebook/L3_plot_ols.ipynb]({{ site.baseurl }}/notebook/L3_plot_ols.ipynb)
+
 
 # Understanding Linear Regression: A Study Guide
 

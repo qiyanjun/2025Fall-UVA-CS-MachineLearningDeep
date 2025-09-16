@@ -4,6 +4,8 @@ title: Assignments
 desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 ---
 
+
+
 <hr>
 
 ### Six assignments (65%)
@@ -83,7 +85,9 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 ### About in-class Quizzess (20%)
 + Quizz dates will show on the schedule page
 + Mostly quizzes will be on Thursdays
-+ Each quizz includes contents we cover in the previous two reading sessions. 
++ Each quizz includes contents we cover in the previous two reading sessions.
+
+**Quiz Resources**: [Quiz Questions and Answers PDF]({{ site.baseurl }}/notebook/Szz-quiz-QA.pdf) 
 
 
 |INDEX | Quiz |
