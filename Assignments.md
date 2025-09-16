@@ -94,7 +94,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 |------|----------------------------|
 | Q1   | [URL](https://forms.gle/2oqV25qimz8AG1J58) |
 | Q2   | [URL](https://forms.gle/TtPu4ZwHvNoNiw5bA) |
-| Q3   | [ToCome]() |
+| Q3   | [URL](https://forms.gle/bcFHSJ9oBe8eR2Sg8) |
 | Q4   | [ToCome]() |
 | Q5   | [ToCome]() |
 | Q6   | [ToCome]() |
