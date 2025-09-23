@@ -17,7 +17,17 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 
 <hr>
 
-#### Week3 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)
+#### Week4 Project ideas: 
+
+- Machine Learning at UVA ([ML@UVA](https://mlatuva.org/)), the university's leading machine learning club with 300+ members and faculty advisors. We collaborate with UVA departments, research labs, and industry partners to tackle real-world challenges through data-driven innovation.  
+
+- This year, they are collaborating on joint projects with Logistics Management Institute (LMI) and Johns Hopkins APL. Since your course covers machine learning fundamentals and AI techniques, and we are pursuing projects in neural networks, computer vision, graph analysis, and anomaly detection
+
+
+
+<hr>
+
+
 - Week4 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week5 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week6 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
