@@ -25,6 +25,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <th>Out Date</th>
   <th>In Date</th>
   <th>About</th>
+   <th>Grade</th>
   </b>
   </h3>
 </tr>
@@ -34,6 +35,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W2</td>
   <td>W3</td>
   <td>Linear Regression and  Optimization to Code</td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>HW2</td>
@@ -41,6 +43,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W2</td>
   <td>W5</td>
   <td>Polynomial, Ridge, Model Selection to implement</td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>HW3</td>
@@ -48,6 +51,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W3</td>
   <td>W8</td>
   <td>Deep NN on imaging to implement and to compete  </td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>HW4</td>
@@ -55,6 +59,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W4</td>
   <td>W11</td>
   <td>NBC and Deep on Text to implement and compete</td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>HW5</td>
@@ -62,6 +67,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W5</td>
   <td>W13</td>
   <td> kNN to implement, SVM, and BoostingTrees to compare</td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>Final Project </td>
@@ -69,6 +75,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>W6</td>
   <td>W16</td>
   <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
+  <td>10%</td>
 </tr>
 <tr>
   <td>Weekly Reading Questions</td>
@@ -76,8 +83,15 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>Every Week</td>
   <td>Every Thursday morning</td>
   <td> Submit weekly reading questions to Canvas. Please submit one question per lecture reading. For each week, Thursday are for flip reading; I will email you what to read on Tuesday evenings!  Please remember to submit questions from your reading as submissions to  weekly question assignments (due on Tuesday noon weekly)!!!! ~ )  </td>
+  <td>5% (if your submission covers >=10 weeks)</td>
 </tr>
 </table>
+
+
+
+### About Final Exam (15%)
++ Details to come
++ Closed book 
 
 
 <hr>
@@ -95,7 +109,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q1   | [URL](https://forms.gle/2oqV25qimz8AG1J58) |
 | Q2   | [URL](https://forms.gle/TtPu4ZwHvNoNiw5bA) |
 | Q3   | [URL](https://forms.gle/bcFHSJ9oBe8eR2Sg8) |
-| Q4   | [ToCome]() |
+| Q4   | [URL](https://forms.gle/mRwA8uQzu9WNZNLw9) |
 | Q5   | [ToCome]() |
 | Q6   | [ToCome]() |
 | Q7-makeup   | [ToCome]() |
@@ -107,7 +121,3 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q13   | [ToCome]() |
 | Q14-makeup   | [ToCome]() |
 
-
-### About Final Exam (15%)
-+ Details to come
-+ Closed book 
