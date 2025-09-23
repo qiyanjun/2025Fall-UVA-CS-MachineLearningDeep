@@ -16,9 +16,49 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 - Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
 - For sick day reschedule (with doctor note) and SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
 - Please remember to submit your reading question assignments due on Tuesdays by noon (Weekly In Canvas!) Please submit one question per lecture reading. For each week, Thursday are for flip reading; I will email you what to read on Tuesday evenings!  Please remember to submit questions from your past week reading as submissions to those weekly question assignment entries. 
+- I have included all past quiz and their answers in [here](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-quiz-QA.pdf) 
+
+
 
 ---
 <hr>
+
+
+## Sep 23 on Quiz-5
+
+
+This week please cover the following two sessions / Quiz 5 will cover these topics: 
+
+- [Regularized linear regression](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L07-LRR/)
+
+- [knn and generalization theory](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L08-knn/)
+
+
+<hr>
+
+## Sep 18 on Quiz-4 and HW1 
+
+
+1. Included all past quiz and their answers in 
+
+https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-quiz-QA.pdf 
+
+2. This week's reading includes the following two: 
+
+- Linear regression with basis expansion https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L05-nLR/ 
+
+
+- model selection and workflow https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S1-L06-modelSel/ 
+
+
+3. Next week we will have HW1 due /weekly Reading question due/ and Quiz4 next Tuesday. 
+
+Please make use of the TA office hours to get the help you need. 
+
+
+
+<hr>
+
 
 ## Sep 11 on Quiz-3
 
