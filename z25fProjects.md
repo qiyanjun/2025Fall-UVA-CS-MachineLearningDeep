@@ -28,8 +28,6 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 <hr>
 
 
-- Week4 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
-- Week5 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week6 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week7 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week8 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
