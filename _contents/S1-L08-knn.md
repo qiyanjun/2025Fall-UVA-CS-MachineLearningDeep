@@ -2,7 +2,7 @@
 layout: post
 title: KNN and Theory
 lecture: S1-KNN
-lectureVersion: next
+lectureVersion: current
 extraContent: S1-KNN-extra
 notes: 
 video: <a href="https://youtu.be/fjF9z8-N0Yw"> M1</a> + <a href="https://youtu.be/IcMNLwjK93k"> M2</a>
