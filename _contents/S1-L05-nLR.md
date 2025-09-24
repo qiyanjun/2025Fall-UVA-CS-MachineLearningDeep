@@ -4,7 +4,7 @@ title: LR with basis
 lecture: S1-LRSelectExtend
 lectureVersion: current 
 extraContent: S1-nonparametric
-notes:  <a href="https://colab.research.google.com/drive/1BVcHUBYDO4AlwldcKmpmj5blAbf7lSJb?usp=sharing">RBF regression notebook </a>
+notes: 
 morenotes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> NonLinearR </a> + <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>
 video: <a href="https://youtu.be/oIQX1uXU_Bk">M1</a> + <a href="https://youtu.be/R8I_ReNucV8">M2</a>
 categories: tabular
@@ -15,7 +15,7 @@ tags:
 - Local
 ---
 
-- Notebook Resources: [notebook/L5-Poly-Regression.ipynb]({{ site.baseurl }}/notebook/L5-Poly-Regression.ipynb)
+- Notebook Resources: [notebook/L5-Poly-Regression.ipynb](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L5_Poly_Regression.ipynb)
 
 
 - Notebook Resources: [notebook/L5-RBF-regressionLR.ipynb]({{ site.baseurl }}/notebook/L5-RBF-regressionLR.ipynb)
