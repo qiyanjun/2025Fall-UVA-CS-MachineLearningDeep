@@ -28,7 +28,19 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 <hr>
 
 
-- Week6 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
+#### Week6 : [Claude Builder Club](https://docs.google.com/presentation/d/1MBfwvX18LSz7pkR4hv2k-bJ44JnUKlO0wB3UG0bAFBw/edit?slide=id.g378ece762da_0_699#slide=id.g378ece762da_0_699)   
+
+
+- Pierce Brookins email is byd5ur@virginia.edu  if you have any questions
+- Resume Book: https://forms.gle/Uo453kf9KAWG2oYN6
+- Member Form: https://forms.gle/A96i6mNNoQ58zAEK9
+
+
+
+
+
+<hr>
+
 - Week7 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week8 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
 - Week9 Example: [Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/abs/2507.07935)    
