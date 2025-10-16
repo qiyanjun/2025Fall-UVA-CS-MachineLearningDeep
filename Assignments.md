@@ -70,11 +70,11 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
   <td>10%</td>
 </tr>
 <tr>
-  <td>Final Project </td>
+  <td>Final Project or HW6 </td>
   <td><a href="{{ site.baseurl }}/z25fProjects/">Project Requirements</a></td>
   <td>W6</td>
   <td>W16</td>
-  <td> Hierarchical Clustering+ RL to Implement OR a project topic that you like to persue! </td>
+  <td> Hierarchical+ kMeans Clustering to Implement OR a project topic that you like to persue! </td>
   <td>10%</td>
 </tr>
 <tr>
@@ -111,8 +111,8 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q3   | [URL](https://forms.gle/bcFHSJ9oBe8eR2Sg8) |
 | Q4   | [URL](https://forms.gle/mRwA8uQzu9WNZNLw9) |
 | Q5   | [URL](https://forms.gle/h1PQE9KLjrGdnqBP7) |
-| Q6   | [ToCome]() |
-| Q7-makeup   | [ToCome]() |
+| Q6   | [URL](https://forms.gle/P58PQcwHei5qz2Dn9) |
+| Q7-makeup  | [URL](https://forms.gle/9A9gfwp5Z3roKC1y7) |
 | Q8   | [ToCome]() |
 | Q9   | [ToCome]() |
 | Q10   | [ToCome]() |

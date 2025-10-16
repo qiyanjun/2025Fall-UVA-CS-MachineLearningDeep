@@ -22,6 +22,28 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 
 ---
+
+
+<hr>
+
+## Oct 8th on Quiz-7 and HW3/HW2
+
+#### The coming Thursday’s Quiz7 will cover the following three readings:
+
+- Logistic Regression and MLP: [Links](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L02-LoR/) .
+- Neural Networks and Deep Learning: [Links](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L03-DNN/) .
+- Convolutional Neural Network (CNN): [Links](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L04-CNN/) .
+
+
+#### On HW2:  
+- We have released the HW2 key in Canvas. 
+- This is a super important homework to understand learning behaviors and hyperparameter tuning
+
+
+#### On HW3: 
+- We would like to clarify that for HW3, both keras and torch implementations are required for submission. If time allows, you can also try to compete on the Fashion MNIST leaderboard and aim for a performance comparable to the top ten competitors. In that case, you may focus on only one library for the implementation.
+
+
 <hr>
 
 ## Sep 30 on Quiz-6 and HW1/HW2
