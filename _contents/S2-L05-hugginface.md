@@ -2,7 +2,7 @@
 layout: post
 title:  Huggingface 
 lecture: S3-hf-intro-2025-1016
-lectureVersion: next
+lectureVersion: current
 notes: <a href="https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//Lectures/S2-L0-pytorch.pdf"> S2-L0-pytorch </a> 
 video: M1
 platform: true
