@@ -11,7 +11,7 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
   1. [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
   2. [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
 - This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
-- We will have future quiz mostly on Tuesdays. 
+- We have quiz mostly on Tuesdays. 
 - We share a few code examples showcasing course lecture contents in code, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
 - Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
 - For sick day reschedule (with doctor note) and SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
@@ -22,6 +22,21 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 
 ---
+
+
+## Oct 16th on Quiz-8 and HW3 (Keras, Pytorch) and Huggingface
+
+#### Next Tuesday we will have Quiz8 to cover the following contents:
+
+- [Neural Networks and Deep Learning](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L03-DNN/)
+- [Convolutional Neural Network (CNN)](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L04-CNN/)
+- [PCA, Feature Selection](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L06-PCA/)
+
+
+#### course website also have slide decks on
+- [Keras](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//Lectures/S2-L0-Keras.pdf)
+- [PyTorch](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//Lectures/S2-L0-pytorch.pdf)
+- Huggingface: [slide deck huggingface](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L20-invite-hugginface/)
 
 
 <hr>

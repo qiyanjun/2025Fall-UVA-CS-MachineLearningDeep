@@ -3,7 +3,7 @@ layout: post
 title: PCA, Feature Selection
 lecture: S2-dimReduce
 extraContent:  S2-PCA
-notes: <a href="https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=24">Great PCA Video</a> + <a href=""> PCA Notebook </a>
+notes: <a href="https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=24">Great PCA Video</a> + <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L14_PCA_face_IRIS.ipynb"> PCA Notebook </a>
 morenotes: <a href="https://umap-learn.readthedocs.io/en/latest/"> UMAP </a>    
 video:  <a href="https://youtu.be/-Fk4b1PPoEA"> M1 </a> 
 categories: 2d (vision)
@@ -17,6 +17,13 @@ tags:
 
 
 ---
+
+
+## running notebook 
+
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L14_PCA_face_IRIS.ipynb"> PCA Notebook </a>
+
+
 
 ## Short-Answer Quiz
 
