@@ -15,7 +15,13 @@ tags:
 ---
 
 
-In this lecture, we cover: 
+- Notebook to try: 
+
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L15_Predicting_Movie_Reviews_with_BERT_on_TF_Hub.ipynb">Keras Notebook on DNN text </a> 
+
+
+
+### In this lecture, we cover: 
 - What is NLP?
 - Typical NLP tasks / Challenges / Pipeline
 - f() on natural language

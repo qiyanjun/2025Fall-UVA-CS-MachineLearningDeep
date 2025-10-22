@@ -15,7 +15,10 @@ tags:
 
 
 
-- Notebook Resources: [notebook/L6-Hyperparameters-and-Model-Validation.ipynb](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook/)
+- Notebook Resources: [notebook/L6-Hyperparameters-and-Model-Validation.ipynb](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L6_Hyperparameters_and_Model_Validation.ipynb)
+
+
+- Notebook Resources: [notebook/L9-LearningCurves.ipynb](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L9-LearningCurves.ipynb)
 
 
 # Study Guide: The Bias-Variance Tradeoff

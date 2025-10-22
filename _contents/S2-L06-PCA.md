@@ -13,6 +13,11 @@ tags:
 ---
 
 
+- Notebook to try: 
+
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L14_PCA_face_IRIS.ipynb"> PCA Notebook </a>
+
+
 # Study Guide: Dimensionality Reduction and PCA
 
 

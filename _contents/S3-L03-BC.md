@@ -11,3 +11,11 @@ tags:
 - 3Classification
 - Generative
 ---
+
+
+
+- Notebook to run:  
+
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L16_naiveBayes_text.ipynb">text NBC notebook</a> 
+
+

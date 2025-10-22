@@ -4,7 +4,7 @@ title: LR with basis
 lecture: S1-LRSelectExtend
 lectureVersion: current 
 extraContent: S1-nonparametric
-notes: 
+notes: <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L5_Poly_Regression.ipynb">L5_Poly_Regression.ipynb</a>
 morenotes: <a href="https://stat.ethz.ch/~stahel/courses/cheming/nlreg10E.pdf"> NonLinearR </a> + <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">ELS Ch5 </a>
 video: <a href="https://youtu.be/oIQX1uXU_Bk">M1</a> + <a href="https://youtu.be/R8I_ReNucV8">M2</a>
 categories: tabular

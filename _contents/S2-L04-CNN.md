@@ -15,6 +15,12 @@ tags:
 ---
 
 
+# Notebooks to run and experienc: 
+- <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L13_keras_mnist_convnet.ipynb"> L13 Keras notebook</a>  
+- <a href="https://www.kaggle.com/code/shawon10/covid-19-diagnosis-from-images-using-densenet121"> another Keras Kaggle notebook</a>
+
+
+
 # Study Guide: Supervised Image Classification and Convolutional Neural Networks
 
 
