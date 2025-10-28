@@ -24,6 +24,25 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 
 
+## Oct 21th on Quiz9 and Project Team Size
+
+
+Next Tuesday’s Quiz9 will cover the following course contents: 
+
+- [deep learning on NLP] https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S3-L01-textNN/ Links to an external site. 
+- [Generative classification] https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S3-L03-BC/ Links to an external site.
+For course project: 
+
+- your team can include one to FOUR members. Please sign up for your team’s shark tank sessions ASAP! 
+- project guide: https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fProjects/ Links to an external site. Very looking forward to chat with you (mostly on Thursdays) on your team projects!~  
+
+
+
+
+
+---
+
+
 ## Oct 16th on Quiz-8 and HW3 (Keras, Pytorch) and Huggingface
 
 #### Next Tuesday we will have Quiz8 to cover the following contents:
