@@ -70,14 +70,21 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 
 <hr> 
 
-#### Week 8 Teaching: [Huggingface](https://huggingface.co/docs)
+#### Week 8 Tutorial: [Huggingface](https://huggingface.co/docs)
 - tutorial slide deck: [TA's slide deck](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S2-L20-invite-hugginface/)
 - a tutorial on huggingface model zoo and platform ---The  best platform where the machine learning community collaborates on models, datasets, and applications.
 
 
+<hr>
+
+#### Week 8 Extra readings to help your project ideas: 
+- <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
+- <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-deepNNSurvey.pdf"> [A survey of 10 advanced DNN topics] </a>  
+
+
 <hr> 
 
-#### Week 8 to Week 14: Project "Shark Tank"
+#### Week 9 to Week 14: Project "Shark Tank"
 
 - The instructor team is hosting the "Shark Tank" Sessions to screen your project ideas! 
 - Plese select your session in the signup sheet! 

@@ -3,9 +3,9 @@ layout: post
 title: Quick survey of recent deep learning
 lecture: S3-deepNNSurvey
 lectureVersion: current
-extraContent:  
+extraContent:  <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
 video: <a href="https://youtu.be/tjIJVfwSrgs"> M1</a> + <a href="https://youtu.be/Z2Pq6QokCco"> M2</a> + <a href="https://youtu.be/l58pIDazkQU"> M3</a> + <a href="https://youtu.be/gjXxOVly83s">M4</a> 
-notes: <a href="https://github.com/afshinea/stanford-cs-230-deep-learning"> DNN Cheatsheets </a> 
+notes: <a href="https://github.com/afshinea/stanford-cs-230-deep-learning"> DNN Cheatsheets </a> + <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
 extra: true
 categories: survey
 tags:
@@ -17,6 +17,8 @@ tags:
 - Generative
 ---
 
+### Extra reaing: 
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
 
 ### Summary: 
 

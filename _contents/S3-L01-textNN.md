@@ -4,7 +4,7 @@ title: Recent deep learning on Text
 lecture: S3-deepNNtext
 lectureVersion: current
 video: <a href="https://youtu.be/iTgy525nBq4">M1</a> + <a href="https://youtu.be/w22S24kFMmA">M2</a> +   <a href="https://youtu.be/5UGmLbAvUH0">M3</a>  
-notes: <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L15_Predicting_Movie_Reviews_with_BERT_on_TF_Hub.ipynb">Keras Notebook on DNN text </a> 
+notes: <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L15_Predicting_Movie_Reviews_with_BERT_on_TF_Hub.ipynb">Keras Notebook on DNN text </a> + <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
 categories: 1D (Text)
 tags:
 - Nonlinear
@@ -19,7 +19,8 @@ tags:
 
 <a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/notebook/L15_Predicting_Movie_Reviews_with_BERT_on_TF_Hub.ipynb">L15 Keras Notebook on DNN text </a> 
 
-
+- Extra reading: 
+<a href="https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf"> [Recent LLM-survey] </a> 
 
 ### In this lecture, we cover: 
 - What is NLP?
