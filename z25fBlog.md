@@ -23,6 +23,21 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 ---
 
+## Oct 28th on Quiz10
+
+Dear students:
+
+The Quiz 10, will cover the following course lectures and related:
+- [NaiveBC on Text]( https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S3-L04-NBC/)
+- [SVM]( https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S4-L02-svm-basic/)
+- [SVM, Kernel]( https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep/contents/S4-L03-svm-kernel/)
+- BTW: I will publish HW4 and HW5 to Canvas by tonight.
+
+
+
+
+---
+
 
 ## Oct 21th on Quiz9 and Project Team Size
 
