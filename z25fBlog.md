@@ -23,6 +23,21 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 ---
 
+
+## Oct 29th on project idea and brainstorming
+
+
+Here are two advanced readings on recent-LLM topics and advanced DNN topics. The aim to help you brainstorm your project ideas: 
+
+- 1. [Recent LLM-survey]("https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-25recentLLM-extra.pdf”)
+- 2.  [A survey of 10 advanced DNN topics](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/blob/main/Lectures/S3-deepNNSurvey.pdf) Links to an external site.
+
+I will try to cover these advanced topics in a condensed form next Thursday.
+
+
+---
+
+
 ## Oct 28th on Quiz10
 
 Dear students:
