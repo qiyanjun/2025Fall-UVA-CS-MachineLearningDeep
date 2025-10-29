@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review
+title: Final Project 
 lecture: S6-review
 lectureVersion: next
 extraContent:   
