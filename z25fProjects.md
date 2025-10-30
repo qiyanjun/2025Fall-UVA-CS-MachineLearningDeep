@@ -12,11 +12,10 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 + The final project should be technical, employing methods including, but not limited to, those covered in class (e.g., identify a real-world problem and apply relevant algorithms learned). Please keep your code and visualized results in Jupyter notebooks or well-organized code structure. Teams with multiple students may divide experiments across several notebooks. Each team is also required to present their project detailing the project's background (motivation), methodology, and results.
 
 + On what to create / submit for your final project: 
-  - A mini demo presentation to the instructors on your project idea is expected. The mini presentation is expected to explain  (WHY/ WHAT/ HOW on your project!) 
-  - A slide deck (Due in Canvas on xx ) summarizing your project  and describing the results you reproduce; Filling in the template slide pages will be enough enough (more is better!).
-  - Please formulate your project presentation using [a given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx)
-  - On the final project day, you are expected to print out the slide deck and show it as posters during the project poster session. 
-  - A python Jupyter notebook (Due in Canvas on Xxx, together with the slide deck) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
+  - 1. A mini demo "Shark Tank" presentation to the instructors on your project idea is expected. The mini presentation is expected to explain  (WHY/ WHAT/ HOW on your project!) -- intended to be a more conceptual, idea-based pitch; please use [a given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx) to help you pitch the idea! 
+  - 2. A slide deck (Due in Canvas on xx ) summarizing your project  and describing the results you reproduce; Filling in the template slide pages will be enough enough (more is better!). Here is the [given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx)
+  - 3. A python Jupyter notebook (Due in Canvas on Xxx, together with the slide deck) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
+  - On the final project day, you are expected to present a formal / complete demo using your slide deck and your code demo during the project poster session. 
   - You are expected to go through and show the notebook file and your final project presentation to the instructors via a team video demo. 
   
 + What to submit as the final artifacts of your project: 
@@ -31,7 +30,7 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
     2. Clear explanation of approach and code runs (15%)
     3. clear summary of results (and/or difficulties) (15%)
     4. Well-organized, polished as a whole (10%) 
-    5. Great delivery of content at the "shark Tank" session (10%)
+    5. Great delivery of content at the final demo session and the "shark tank" sessions (10%)
   - Good coding artifacts (40%)
   - Good video demo (Extra credits: 20%)
 
