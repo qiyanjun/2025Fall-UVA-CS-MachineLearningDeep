@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Final Project Poster Day
-lecture:  S6-finalProject
+title: Review for Final exam
+lecture:  S6-final-review
 lectureVersion: next
-video: see slack   
-notes:  see slack 
+video: <a href="https://youtu.be/fz5ExB0XP5E"> video</a>  
+notes:  revie for final exam 
 ---
