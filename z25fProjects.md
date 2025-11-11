@@ -25,13 +25,13 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 
 + On how we grade the projects: 
   - Here is the grading rubrics we will use to grade your final report 
-  - Good slide deck (aka also poster) (60%)
+  - Good slide deck (aka also via final presentation ) (60%)
     1. Clear definition of problem and importance (10%)
     2. Clear explanation of approach and code runs (15%)
     3. clear summary of results (and/or difficulties) (15%)
     4. Well-organized, polished as a whole (10%) 
     5. Great delivery of content at the final demo session and the "shark tank" sessions (10%)
-  - Good coding artifacts (40%)
+  - Good coding artifacts (aka also via final presentation) (40%)
   - Good video demo (Extra credits: 20%)
 
 

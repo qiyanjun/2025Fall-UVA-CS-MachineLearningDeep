@@ -10,7 +10,7 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 
 ### Six assignments (65%)
 + Post in Canvas 
-+ You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email to to <br>
++ You will receive grading of each HWs within 10 day of each due time. A release email will send to you about the grading. (If you don’t receive such emails in time, please do email  to <br>
 [instructors25fall-machinelearningdeep@collab.its.virginia.edu](mailto:instructors25fall-machinelearningdeep@collab.its.virginia.edu).
 
 + Please submit all extension requests, questions, and late assignments  to <br>
@@ -113,11 +113,19 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q5   | [URL](https://forms.gle/h1PQE9KLjrGdnqBP7) |
 | Q6   | [URL](https://forms.gle/P58PQcwHei5qz2Dn9) |
 | Q7-makeup  | [URL](https://forms.gle/9A9gfwp5Z3roKC1y7) |
-| Q8   | [ToCome]() |
-| Q9   | [ToCome]() |
-| Q10   | [ToCome]() |
+| Q8   | [URL](https://forms.gle/3JYEuK5DZtber2EE6) |
+| Q9   | [URL](https://forms.gle/MhkTPJJdvxUnP7ta8) |
+| Q10   | [URL](https://forms.gle/QmSkU9KB36vYECDL7) |
 | Q11   | [ToCome]() |
 | Q12   | [ToCome]() |
 | Q13   | [ToCome]() |
 | Q14-makeup   | [ToCome]() |
+
+
+<hr>
+
+### About Extra credits
++ We have extra credits questions in Quiz and in HWs
++ They intend to increase your chance of getting the full credits for that specific assignment / Quiz. 
++ Each HW / Quiz are upper bounded by its designed percentage in the total final grade. 
 
