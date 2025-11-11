@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final Review  
-lecture: S6-review
+lecture: S6-final-review-HW-Quiz
 lectureVersion: next
 extraContent:   
 notes: <a href="https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en">[ML Cheatsheets]</a> 
