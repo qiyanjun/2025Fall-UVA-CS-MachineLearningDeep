@@ -21,6 +21,31 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 
 
+
+---
+
+
+## Nov. 11th on Quiz12
+
+Here are the two lectures for Quiz12 (next Tuesday!): 
+
++ [RF and Boosting ](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S4-L05-Boost/)
++ [Hierarchical Clustering](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S5-L01-Hier/)
+
+
+---
+
+
+## Nov. 11th on Quiz11
+
+The coming Quiz11 will cover the following: 
+
+- [SVM, Kernel](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S4-L03-svm-kernel/)
+- [ Decision Tree + Bagging](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S4-L04-DT/)
+
+
+
+
 ---
 
 
