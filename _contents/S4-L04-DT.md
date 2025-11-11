@@ -2,7 +2,7 @@
 layout: post
 title: DecisionTree and Bagging
 lecture: S4-DecisionTree
-lectureVersion: next
+lectureVersion: current
 video: <a href="https://youtu.be/JKcTiyvIpp8">M1</a> + <a href="https://youtu.be/iKTxnJU0L1E">M2</a> + <a href="https://youtu.be/WaWTw07Luzs">M3</a> 
 notes:  
 categories: tabular
