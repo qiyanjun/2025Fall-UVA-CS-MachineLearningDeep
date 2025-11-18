@@ -123,8 +123,8 @@ at 11:59pm on the due date </b>.
 + About Extensions:
   + Each student has <b>ten</b> extension days to be used at his or
 her own discretion throughout the entire course.
-  + Your grades would be
-discounted by 10% per day when you use these late days.
+  + <span style="color:red"><b>Your grades would be
+discounted by 10% per day when you use these late days.</b></span>
   + You could use the days in whatever combination you like. For example,
 all days on 1 assignment or 1 each day
 over assignments and reports (for a maximum grade of 90% on each).
