@@ -3,7 +3,7 @@ layout: post
 title: deep RL Gym
 lecture: S5-RL-Gym-to-come
 lectureVersion: next
-notes: Invited Speaker
+notes: TA Speaker
 video:    
 categories: library
 platform: true

@@ -77,10 +77,11 @@ desc: "Information for 2025 Fall  UVa CS Machine Learning, Math Foundations and 
 + #### TA office hours and communication with TAs 
   - communication with TA via Course Slack Space / Slack Link Shared via Course maillist
   - instructor email [here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
-  - instructor office hour [here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu): Thur 3:30pm-5pm
+  - instructor office hour [here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu): 
+  - Prof Qi: Monday 3:30pm-5pm
   - Guangzhi Xiong (hhu4zu@virginia.edu): Friday 2pm - 4pm (in Rice Hall 442) 
   - Kefan Song (ks8vf@virginia.edu): Thursday 3:30pm - 5:30pm (in Thornton Hall E303)  
-  - Haochen Liu (sat2pv@virginia.edu): Monday 12pm noon-2pm (Rice 109)
+  - Haochen Liu (sat2pv@virginia.edu): Monday 12pm noon-2pm (Rice 442)
 
 
 
@@ -124,7 +125,7 @@ at 11:59pm on the due date </b>.
   + Each student has <b>ten</b> extension days to be used at his or
 her own discretion throughout the entire course.
   + <span style="color:red"><b>Your grades would be
-discounted by 10% per day when you use these late days.</b></span>
+discounted by 10% per day when you use one of these late days.</b></span>
   + You could use the days in whatever combination you like. For example,
 all days on 1 assignment or 1 each day
 over assignments and reports (for a maximum grade of 90% on each).
