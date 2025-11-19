@@ -25,6 +25,18 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 
 
+## Nov. 11th on Quiz13
+
+For next Tue's Q13, it will cover: 
+
+- [Clustering Partition](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S5-L02-kMeans/)
+- [RL](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S5-L03-RL/)  / only slide page 1-37...  / Also this lecture will not be included in final exam. 
+
+
+
+---
+
+
 ## Nov. 11th on Quiz12
 
 Here are the two lectures for Quiz12 (next Tuesday!): 
