@@ -128,7 +128,7 @@ her own discretion throughout the entire course.
 discounted <b>by 10% per day </b> when you use one of these late days.</b></span>
   + You could use the days in whatever combination you like. For example,
 all days on 1 assignment or 1 each day
-over assignments and reports (for a maximum grade of 90% on each).
+over assignments and reports (for a maximum grade of 90% on each if you use 1 late day for each).
   + After you've used all late days, you cannot get credit
 for anything turned in late.
 
