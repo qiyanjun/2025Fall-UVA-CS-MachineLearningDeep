@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  Section 6 - Wrap Up
-lectureVersion: next
+lectureVersion: current
 ---

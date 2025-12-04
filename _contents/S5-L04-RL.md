@@ -1,8 +1,8 @@
 ---
 layout: post
 title: deep RL Gym
-lecture: S5-RL-Gym-to-come
-lectureVersion: next
+lecture: S5_RL_Gyms
+lectureVersion: current
 notes: TA Speaker
 video:    
 categories: library
