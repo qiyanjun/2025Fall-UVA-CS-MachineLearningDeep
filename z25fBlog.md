@@ -10,14 +10,13 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 - Two easy pages to go through the course materials: 
   1. [course contents shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//LecturesByDate/) 
   2. [course important announcements shown like a blog](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//z25fBlog/) 
-- This course will offer a total of 14 to 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve.
-- We have quiz mostly on Tuesdays. 
+- This course will offer a total of 15 quiz opportunities; your final grade will be using the top 10 quiz grades you achieve. We have quiz mostly on Tuesdays. 
 - We share a few code examples showcasing course lecture contents in code, please check out [Here](https://github.com/qiyanjun/2025Fall-UVA-CS-MachineLearningDeep/tree/main/notebook)
 - Please slack DM TAs or me for any questions or concerns. (we are super slow in emails and much faster with Slack DMs!)  
 - For sick day reschedule (with doctor note) and SDAC issues, please email to: [instructor email here](mailto:instructors-25f-machine-learning-1534062135941@mail.canvas.its.virginia.edu)
 - Please remember to submit your reading question assignments due on Tuesdays by noon (Weekly In Canvas!) Please submit one question per lecture reading. For each week, Thursday are for flip reading; I will email you what to read on Tuesday evenings!  Please remember to submit questions from your past week reading as submissions to those weekly question assignment entries. 
-- I have included all past quiz and their answers in ([Quiz Review](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/zz-Quiz.pdf)) 
-- I have included all past reviews on course readings in ([Review Part-1](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-quiz-QA.pdf)) + ([Review-Part2](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-Quiz-QA-part2.pdf)))
+- I have included all past quiz and their answers in ([Quiz Review](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-quiz.pdf)) 
+- I have included all past reviews on course readings in ([Review Content](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-content.pdf)) + ([Review-Part2](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-QA25.pdf)))
 
 
 
