@@ -20,6 +20,25 @@ desc: "Important Annoucements for 2025 Fall UVa CS -ML-Undergraduate"
 
 
 
+---
+
+
+## Dec. 1st on Quiz14/Q15 / Final review 
+
+Dear students: 
+
+-  You can treat Q14 / Q15 as study guides...
+
+- We have prepared three review documents to help you prepare for final exam: 
+  + all past quiz and their answers in [Quiz Review](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-quiz.pdf)) 
+  + all past reviews on course readings in ([Review Content](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//Lectures/S6-QA25.pdf)) 
+  + summary of all past your weekly questions ([Review-QA](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//notebook/Szz-content.pdf))
+
+- I have also uploaded the wonderful lecture on RL gym from TA Kefan at [Here](https://qiyanjun.github.io/2025Fall-UVA-CS-MachineLearningDeep//contents/S5-L04-RL/) 
+
+
+Best of luck to your final exam!  
+
 
 ---
 
