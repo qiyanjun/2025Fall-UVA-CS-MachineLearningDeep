@@ -116,10 +116,11 @@ desc: "Information of Assignments for 2025 Fall  UVa CS 4774 Machine Learning"
 | Q8   | [URL](https://forms.gle/3JYEuK5DZtber2EE6) |
 | Q9   | [URL](https://forms.gle/MhkTPJJdvxUnP7ta8) |
 | Q10   | [URL](https://forms.gle/QmSkU9KB36vYECDL7) |
-| Q11   | [ToCome]() |
-| Q12   | [ToCome]() |
-| Q13   | [ToCome]() |
-| Q14-makeup   | [ToCome]() |
+| Q11   | [URL](https://forms.gle/3217z3dHjPvKj2o3A)  |
+| Q12   | [URL](https://forms.gle/PxvDQBE3hyEPhb5x7)  |
+| Q13   | [URL](https://forms.gle/FWEACAHtYYnYv6Zw9)  |
+| Q14-makeup   | [URL](https://forms.gle/zQGhsXqFVnoE7fiz6)  |
+| Q15-makeup   | [URL](https://forms.gle/PaeGhfstQpQ5b3ZH7)  |
 
 
 <hr>
