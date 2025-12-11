@@ -35,6 +35,20 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
   - Good video demo (Extra credits: 20%)
 
 
++ Please following the following instruction for organizing your PR to the project codebase: [https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects](https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects)
+
+  - Plese Follow the following folder structure to organize your team project artifacts:
+  - Place all code scripts in the `src/` folder
+  - Place all documentation in the `doc/` folder
+
+```
+team-x/
+├── src/
+└── doc/
+```
+
+
+
 ## Each week, Prof.Qi share one idea on potential projects or project domain: for example, 
 
 <hr>
