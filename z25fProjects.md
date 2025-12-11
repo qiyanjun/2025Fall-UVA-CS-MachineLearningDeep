@@ -13,14 +13,14 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 
 + On what to create / submit for your final project: 
   - 1. A mini demo "Shark Tank" presentation to the instructors on your project idea is expected. The mini presentation is expected to explain  (WHY/ WHAT/ HOW on your project!) -- intended to be a more conceptual, idea-based pitch; please use [a given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx) to help you pitch the idea! 
-  - 2. A slide deck (Due in Canvas on xx ) summarizing your project  and describing the results you reproduce; Filling in the template slide pages will be enough enough (more is better!). Here is the [given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx)
-  - 3. A python Jupyter notebook (Due in Canvas on Xxx, together with the slide deck) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
-  - On the final project day, you are expected to present a formal / complete demo using your slide deck and your code demo during the project poster session. 
-  - You are expected to go through and show the notebook file and your final project presentation to the instructors via a team video demo (20% Extra credit). 
+  - 2. A slide deck (Due in Canvas on Dec.17th ) summarizing your project  and describing the results you reproduce; Filling in the template slide pages will be enough enough (more is better!). Here is the [given template]({{ site.baseurl }}/Lectures/ProjPresentationTemplate-1.pptx)
+  - 3. A python Jupyter notebook ((or codebase form that you prefer! due to project Github codebase Pull Request, together with the slide deck to Canvas) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
+  - On the final project day, you are expected to present a formal / complete demo using your slide deck and your code demo during the project presentation session. 
+  - You are expected to go through and show the codebase  and your final project presentation to the instructors via a final project presentation session (25mins). 
   
 + What to submit as the final artifacts of your project: 
-    0. your project slide deck as your final report into Canvas (the slide deck is required to have your video links and your git-PR information)
-    1. your project iPython Notebook and you cell run it in the demo video (Here is the course project Github [https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects](https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects), you are expected to PullRequest to add yours into this Github)
+    0. your project slide deck as your final report into Canvas (the slide deck is required to have your video links and your codebase to the course project Github-PR information)
+    1. your project iPython Notebook (or codebase form that you prefer!) and you cell run it in the demo video (Here is the course project Github [https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects](https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects), you are expected to PullRequest to add yours into this Github)
     2. To minimize the overhead time cost (switching, wrong setup, ….), we will expect you to record a demo video to present your project / We recommend you to submit your video demo to youtube and share the link in the Canvas project submission. (Please practice the whole process for a few times before you make video demos.) 
 
 + On how we grade the projects: 
@@ -31,7 +31,7 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
     3. clear summary of results (and/or difficulties) (15%)
     4. Well-organized, polished as a whole (10%) 
     5. Great delivery of content at the final demo session and the "shark tank" sessions (10%)
-  - Good coding artifacts (aka also via final presentation) (40%)
+  - Good coding artifacts (aka also presented via final presentation) (40%)
   - Good video demo (Extra credits: 20%)
 
 
