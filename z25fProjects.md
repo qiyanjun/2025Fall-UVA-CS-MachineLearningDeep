@@ -40,6 +40,7 @@ desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
   - Plese Follow the following folder structure to organize your team project artifacts:
   - Place all code scripts in the `src/` folder
   - Place all documentation in the `doc/` folder
+  - A README.md will be helpful if you have one. 
 
 ```
 team-x/
