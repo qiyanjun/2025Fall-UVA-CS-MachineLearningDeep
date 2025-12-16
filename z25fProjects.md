@@ -48,9 +48,7 @@ team-x/
 └── doc/
 ```
 
-+ Here's your content converted to markdown format:
-
-```markdown
++ How to PR to the project codebase: 
 #### Step 1: Set up your local branch
 
 * Go to the course repository and click Fork: https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects
@@ -84,9 +82,7 @@ team-x/
 * Push the changes to your fork
    * `git push origin main`
 * On GitHub, navigate to your fork and open a pull request via: Pull requests → New pull request
-```
 
-I've converted your text to proper markdown format by adding heading syntax (`#`) for the main steps and formatting the code commands with backticks for inline code.
 
 
 ## Each week, Prof.Qi share one idea on potential projects or project domain: for example, 
