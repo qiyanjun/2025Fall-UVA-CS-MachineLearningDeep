@@ -4,6 +4,10 @@ title: ProjectGuide
 desc: "Final Project Information for 2025 Fall UVa CS -ML-Undergraduate"
 ---
 
+## Students' projects from this course past offering in 2020 and 2019
+- [machine-learning-uva2019-students-deep2reproduce/](https://github.com/Qdata4Capstone/machine-learning-uva19-students-deep2reproduce/)
+- [machine-learning-uva2020-students-ml for good use](https://github.com/Qdata4Capstone/machine-learning20f-learning4good-projects)
+- [machine-learning-uva2025-students-ml-dl-genAI projects](https://github.com/Qdata4Capstone/uva-machine-learning-25f-projects)
 
 
 ## Detailed requirements on Final Project and required artifacts: 
